@@ -20,7 +20,7 @@
     border-radius: 15px;
     overflow: hidden;
     background-size: 100% 100%;
-    animation: animate 24s infinite linear;
+    animation: animate 40s infinite linear;
 }
 @keyframes animate{
      0%, 100%{
